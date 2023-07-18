@@ -5,7 +5,7 @@ import Button from "../Button";
 
 const GetStarted = () => {
   return (
-    <div className="bg-secondary h-auto pt-32 md:pt-32 pb-20 md:px-11 text-background" id="getStarted">
+    <div className="bg-secondary h-auto pt-32 md:pt-48 pb-20 md:px-11 text-background" id="getStarted">
       <div className="px-5">
         <h2 className="font-primary text-5xl font-bold text-black">Poso takes care of everything.</h2>
         <p className="font-secondary pt-10 text-justify text-black">

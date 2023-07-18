@@ -45,7 +45,7 @@ const div = () => {
         <p className="font-secondary">
           Made with{" "}
           <span className="hover:text-red-300">
-            <a href="" rel="noreferrer" target="_blank">
+            <a href="https://www.github.com/sabiqpras/poso" rel="noreferrer" target="_blank">
               ♥
             </a>
           </span>{" "}
