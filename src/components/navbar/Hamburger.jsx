@@ -4,7 +4,7 @@ const Hamburger = (props) => {
   return (
     <div className="md:hidden">
       <button onClick={props.onClick}>
-        <img src="../public/menu.svg" alt="menu" />
+        <img src="/menu.svg" alt="menu" />
       </button>
     </div>
   );
