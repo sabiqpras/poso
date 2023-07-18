@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import List from "./list";
+import List from "./List";
 import Button from "../Button";
 import Hamburger from "./Hamburger";
 import Close from "./Close";
