@@ -6,7 +6,7 @@ const Hero = () => {
       <h1 className="font-primary font-extrabold text-6xl md:text-8xl">
         Insurance that has no secrets for you
       </h1>
-      <p className="font-secondary pt-10">Iantroducing Home Guard Smart, Simple, Secure</p>
+      <p className="font-secondary pt-10">Introducing Home Guard Smart, Simple, Secure</p>
     </div>
   );
 };

@@ -68,6 +68,6 @@ export const footerDatas = [
   },
   {
     title: "Social",
-    details: ["Facebook", "Instgram", "Twitter", "Linkedin", "Youtube", "TikTok"],
+    details: ["Facebook", "Instagram", "Twitter", "Linkedin", "Youtube", "TikTok"],
   },
 ];
