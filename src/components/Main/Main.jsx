@@ -4,7 +4,7 @@ import Buttwo from "../Buttwo";
 import { mainContent } from "../../constant/data";
 
 const Main = () => {
-  const [product, setProduct] = useState("./src/assets/main-1.jpg");
+  const [product, setProduct] = useState("/main-1.jpg");
 
   return (
     <div

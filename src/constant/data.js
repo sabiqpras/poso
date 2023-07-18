@@ -1,15 +1,15 @@
 export const mainContent = [
-  { name: "Housing", image: "./src/assets/house.jpg" },
-  { name: "Mortgage", image: "./src/assets/mortgage.jpg" },
-  { name: "Unpaid Rent", image: "./src/assets/rent.jpg" },
-  { name: "Eco House", image: "./src/assets/eco.jpg" },
+  { name: "Housing", image: "/house.jpg" },
+  { name: "Mortgage", image: "/mortgage.jpg" },
+  { name: "Unpaid Rent", image: "/rent.jpg" },
+  { name: "Eco House", image: "/eco.jpg" },
 ];
 export const commitments = ["A Fair Price", "A Transparent Model", "5 - Star Service"];
 export const advisors = [
-  { name: "mikaela", photo: "./src/assets/person1.jpg" },
-  { name: "louise", photo: "./src/assets/person2.jpg" },
-  { name: "lena", photo: "./src/assets/person3.jpg" },
-  { name: "abigail", photo: "./src/assets/person4.jpg" },
+  { name: "mikaela", photo: "/person1.jpg" },
+  { name: "louise", photo: "/person2.jpg" },
+  { name: "lena", photo: "/person3.jpg" },
+  { name: "abigail", photo: "/person4.jpg" },
 ];
 export const startings = [
   {
