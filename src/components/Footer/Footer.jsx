@@ -41,7 +41,7 @@ const div = () => {
           </div>
         </div>
       </div>
-      <div className="pt-2 pb-8 px-5 md:px-16 bg-background text-black">
+      <div className="pt-2 pb-5 md:pb-2 px-5 md:px-16 bg-background text-black">
         <p className="font-secondary">
           Made with{" "}
           <span className="hover:text-red-300">
